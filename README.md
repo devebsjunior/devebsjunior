@@ -1,7 +1,8 @@
  # Meu nome é Edson Belém de Souza Junior! 
 
 <p align="left">
-<img src="https://i.ibb.co/XfRz39M/backend-engineer-illustration.png" alt="Backend Software Engineering Illustration" width="480">
+
+ <img width="500" alt="back-end" src="https://github.com/user-attachments/assets/317ef79d-e472-4a07-80ae-d78cca7c5635" />
 </p>
 
 ### 👨‍💻 Sobre Mim
